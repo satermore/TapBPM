@@ -26,7 +26,7 @@ Perfecta para DJs, músicos o cualquier persona que necesite identificar rápida
 
 ## Tecnologías utilizadas
 
-- JavaScript / HTML / CSS (o especificar según corresponda)  
+- JavaScript / HTML / CSS 
 - Lógica de cálculo de BPM basada en intervalos de toque  
 - Sistema de sugerencias de géneros según BPM  
 
